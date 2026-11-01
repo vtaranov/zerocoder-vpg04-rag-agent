@@ -1,0 +1,7 @@
+langchain>=1,<2
+langchain-openai>=1,<2
+openai>=2,<3
+pinecone>=7,<9
+python-dotenv>=1,<2
+httpx>=0.28,<1
+beautifulsoup4>=4.12,<5
